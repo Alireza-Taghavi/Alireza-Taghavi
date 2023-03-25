@@ -9,10 +9,34 @@
 
 
 ## ⌨ Languages 
-| Language |
-| -------- |
-| <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" alt="JavaScript" width="20"/> 
- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" alt="TypeScript" width="20"/>
- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" alt="Java" width="20"/> 
- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" alt="HTML" width="20"/> 
- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" alt="CSS" width="20"/> |
+<table>
+  <thead>
+    <tr>
+      <th>Languages</th>
+      <th>Frameworks</th>
+      <th>UI/UX</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.svg" alt="JavaScript" width="40" height="40"></a></td>
+      <td><a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/react/react.svg" alt="ReactJS" width="40" height="40"></a></td>
+      <td><a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/figma/figma.svg" alt="Figma" width="40" height="40"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.svg" alt="TypeScript" width="40" height="40"></a></td>
+      <td><a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/nextjs/nextjs.svg" alt="NextJS" width="40" height="40"></a></td>
+      <td><a href="https://www.adobe.com/products/xd.html"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/adobe-xd/adobe-xd.svg" alt="Adobe XD" width="40" height="40"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.svg" alt="HTML" width="40" height="40"></a></td>
+      <td><a href="https://www.electronjs.org/"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/electron/electron.svg" alt="ElectronJS" width="40" height="40"></a></td>
+      <td><a href="https://getbootstrap.com/"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/bootstrap/bootstrap.svg" alt="Bootstrap" width="40" height="40"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.svg" alt="CSS" width="40" height="40"></a></td>
+      <td><a href="https://angular.io/"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/angular/angular.svg" alt="Angular" width="40" height="40"></a></td>
+      <td><a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/tailwind/tailwind.svg" alt="Tailwind" width="40" height="40"></a></td>
+    </tr>
+    
+   </table>
