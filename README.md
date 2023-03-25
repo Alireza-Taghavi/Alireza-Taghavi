@@ -5,4 +5,4 @@
 ## 🐱‍👤 Git Stats
 ![Sina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alireza-Taghavi&show_icons=true&theme=gotham&hide_border=true&card_width=450)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alireza-Taghavi&hide_progress=false&theme=gotham&hide_border=true&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alireza-Taghavi&hide_progress=false&theme=gotham&hide_border=true&card_width=450&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
