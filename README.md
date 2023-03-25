@@ -11,8 +11,9 @@
 ## ⌨ Languages 
 | Language |
 | -------- |
-| <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" alt="JavaScript" width="20"/> 
- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" alt="TypeScript" width="20"/> 
+| 
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" alt="JavaScript" width="20"/> 
+ <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" alt="TypeScript" width="20"/>
  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" alt="Java" width="20"/> 
  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" alt="HTML" width="20"/> 
- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" alt="CSS" width="20"/> |
+ <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css3.png" alt="CSS" width="20"/> |
